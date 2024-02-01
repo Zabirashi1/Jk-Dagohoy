@@ -1,0 +1,15 @@
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\Jk-Dagohoy\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Jk-Dagohoy\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Jk-Dagohoy\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Jk-Dagohoy\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Jk-Dagohoy\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Jk-Dagohoy\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
