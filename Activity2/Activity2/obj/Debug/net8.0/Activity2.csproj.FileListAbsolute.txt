@@ -1,0 +1,15 @@
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfoInputs.cache
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.AssemblyInfo.cs
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.csproj.CoreCompileInputs.cache
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.sourcelink.json
+D:\Jk-Dagohoy\Activity2\Activity2\bin\Debug\net8.0\Activity2.exe
+D:\Jk-Dagohoy\Activity2\Activity2\bin\Debug\net8.0\Activity2.deps.json
+D:\Jk-Dagohoy\Activity2\Activity2\bin\Debug\net8.0\Activity2.runtimeconfig.json
+D:\Jk-Dagohoy\Activity2\Activity2\bin\Debug\net8.0\Activity2.dll
+D:\Jk-Dagohoy\Activity2\Activity2\bin\Debug\net8.0\Activity2.pdb
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.dll
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\refint\Activity2.dll
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.pdb
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\Activity2.genruntimeconfig.cache
+D:\Jk-Dagohoy\Activity2\Activity2\obj\Debug\net8.0\ref\Activity2.dll
